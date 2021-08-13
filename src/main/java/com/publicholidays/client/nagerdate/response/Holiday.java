@@ -1,4 +1,4 @@
-package com.publicholidays.client.response;
+package com.publicholidays.client.nagerdate.response;
 
 import lombok.Getter;
 import lombok.NoArgsConstructor;
