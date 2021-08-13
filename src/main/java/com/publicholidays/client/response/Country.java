@@ -1,4 +1,4 @@
-package client.response;
+package com.publicholidays.client.response;
 
 import lombok.Getter;
 import lombok.NoArgsConstructor;

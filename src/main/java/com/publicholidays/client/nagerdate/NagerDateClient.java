@@ -1,7 +1,7 @@
-package client.nagerdate;
+package com.publicholidays.client.nagerdate;
 
-import client.response.Country;
-import client.response.Holiday;
+import com.publicholidays.client.response.Country;
+import com.publicholidays.client.response.Holiday;
 import feign.Param;
 import feign.RequestLine;
 

@@ -1,6 +1,6 @@
 package com.publicholidays;
 
-import client.nagerdate.NagerDateClient;
+import com.publicholidays.client.nagerdate.NagerDateClient;
 import feign.Feign;
 import feign.Logger;
 import feign.jackson.JacksonDecoder;
